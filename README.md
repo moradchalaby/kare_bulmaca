@@ -1,6 +1,6 @@
 # Kare Bulmaca Oluşturma Sınıfı
 
-Bu PHP sınıfı, belirtilen boyutlarda bir bulmaca oluşturmanıza olanak tanır.
+Bu PHP sınıfı, belirtilen boyutlarda bir kare bulmaca oluşturmanıza olanak tanır.
 
 ## Kullanım
 
